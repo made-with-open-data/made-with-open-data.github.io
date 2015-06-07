@@ -11,3 +11,18 @@
 	font-size: 1em;
 	letter-spacing: 1px;
 }
+
+.tagline { 
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 0;
+}
+
+.fa-twitter {
+	font-size: 1.3em;
+	padding-top: 3px;
+}
+
+.social {
+	float: right;
+}
