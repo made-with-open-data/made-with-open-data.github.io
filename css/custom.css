@@ -2,3 +2,12 @@
 	padding-top: 10px;
 	margin-bottom: 10px;
 }
+
+.btn-share {
+	margin-top: 30px;
+	float: right;
+	background-color: #000;
+	color: #fff;
+	font-size: 1em;
+	letter-spacing: 1px;
+}
